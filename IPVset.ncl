@@ -2,7 +2,7 @@ load "$NCARG_ROOT/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl"
 
 begin
 filepath = "."
-type     = "x11"
+type     = "eps"
 do day = 19,21
     do i = 0,23
         if (i .le. 9) then
