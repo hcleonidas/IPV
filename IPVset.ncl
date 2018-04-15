@@ -106,4 +106,3 @@ do day = 19,21
     end do
 end do
 end
-exit
