@@ -3,7 +3,7 @@ load "$NCARG_ROOT/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl"
 load "$NCARG_ROOT/lib/ncarg/nclscripts/contrib/time_axis_labels.ncl"
 
 begin
-filepath = "/nuist/scratch/hcluo/wrfout/2nd/"
+filepath = "./"
 outname  = filepath+"zonalmeanIPV"
 type     = "png"
 
