@@ -1,7 +1,7 @@
 load "$NCARG_ROOT/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl"
 
 begin
-filepath = "/nuist/scratch/hcluo/wrfout/2nd/"
+filepath = "./"
 type     = "png"
 
 do day = 19,21
